@@ -1,0 +1,19 @@
+b<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sudoku Solver</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Sudoku Solver</h1>
+        <table id="sudoku-grid">
+            <!-- 9x9 Sudoku grid will be generated here by JavaScript -->
+        </table>
+        <button onclick="solveSudoku()">Solve</button>
+    </div>
+    <script src="{{ url_for('static', filename='sudoku_solver.js') }}"></script>
+</body>
+</html>
