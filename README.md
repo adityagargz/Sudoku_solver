@@ -6,6 +6,7 @@ Developed a Sudoku Solver web application using HTML, CSS, JavaScript, and Pytho
 
 ![Sudoku Solver](https://github.com/adityagargz/Sudoku_solver/blob/main/Screenshot%20(10865).png)
 
+![Sudoku Solver](https://github.com/adityagargz/Sudoku_solver/blob/main/Screenshot%20(10866).png)
 
 ## Features
 - Interactive 9x9 Sudoku Grid
